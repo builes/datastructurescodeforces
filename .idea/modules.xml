@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/00AlgoritmosUtiles/00AlgoritmosUtiles.iml" filepath="$PROJECT_DIR$/00AlgoritmosUtiles/00AlgoritmosUtiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00TiposDeAlgoritmos/00TiposDeAlgoritmos.iml" filepath="$PROJECT_DIR$/00TiposDeAlgoritmos/00TiposDeAlgoritmos.iml" />
       <module fileurl="file://$PROJECT_DIR$/01Arreglos/01Arreglos.iml" filepath="$PROJECT_DIR$/01Arreglos/01Arreglos.iml" />
       <module fileurl="file://$PROJECT_DIR$/02ArreglosDinamicos/02ArreglosDinamicos.iml" filepath="$PROJECT_DIR$/02ArreglosDinamicos/02ArreglosDinamicos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Estructuras.iml" filepath="$PROJECT_DIR$/.idea/Estructuras.iml" />
